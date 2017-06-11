@@ -24,7 +24,7 @@ Amazon API Gateway also adds a layer between your application users and your app
 
 ### 2.1 Create a Deployment package
 
-Write the function code in a file called `LambdaFunctionOverHttps.js`
+Write the function code in a file called [LambdaFunctionOverHttps.js](https://github.com/stlouisweb/aws-lambda/blob/master/example/LambdaFunctionOverHttps.js)
 
 Then:    
 - Save the file as LambdaFunctionOverHttps.js
